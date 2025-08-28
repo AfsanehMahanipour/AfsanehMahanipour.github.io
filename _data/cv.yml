@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Afsaneh Mahanipour
+    - name: Position
+      value: Ph.D. Candidate, Department of Computer Science, Universuty of Kentucky
+    - name: Email
+      value: ama654@uky.edu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computer Science
+      institution: University of Kentucky, USA
+      year: 2021-Present
       description:
         - Description 1.
         - Description 2.
