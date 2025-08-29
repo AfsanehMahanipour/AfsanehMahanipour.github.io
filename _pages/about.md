@@ -6,7 +6,7 @@ subtitle: <a href='#'>Department of Computer Sceince, University of Kentucky</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Afsaneh.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>ama654@uky.edu</p>
