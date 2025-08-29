@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Afsaneh Mahanipour",
+    "label": "Doctoral Student in Computer Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ama654@uky.edu",
+    "phone": "8594202956",
+    "url": "https://afsanehmahanipour.github.io/",
+    "summary": "A Doctoral Student in Computer Science at University of Kentucky.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "329 Rose Street",
+      "postalCode": "KY, 40508",
+      "city": "Lexington",
       "countryCode": "US",
-      "region": "California"
+      "region": "Kentucky"
     },
     "profiles": [
       {
