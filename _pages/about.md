@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Afsaneh Mahanipour"
-excerpt: "PhD Student | Computer Vision | Multimodal Models | Generative AI | Edge AI"
+excerpt: "PhD Candidate | Federated Learning | Multimodal Models | Generative AI | Edge AI"
 author_profile: true
 redirect_from: 
   - /about/
@@ -37,7 +37,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - *07/27/25:* | Our work "Federated Reprogramming Knowledge Distillation for Medical Image Classification" has been accept in the MICCAI DeCaF 2025!
 - *06/02/25:* | Excited to be selected as a Lighthouse Beacon Foundation Scholar from the Pigman College of Engineering at UKY! 
 - *03/31/25:* | Our work "Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs" has been accept in the IJCNN 2025!  
-- *03/05/25:* | Glad for the [CPS Rising Star Recognization 2025](https://engr.uky.edu/news/phd-student-named-2025-cps-rising-star) :star2: 
+- *03/05/25:* | Glad for the [CPS Rising Star Recognization 2025](https://engr.uky.edu/news/phd-student-named-2025-cps-rising-star) ⭐ 
 - *01/15/25:* | Excited to be selected to attend the [NeTS Early Career Workshop 2025](https://sites.google.com/view/nets-early-career-2025/home?authuser=0) at the NSF Headquarters! 
 
 
@@ -194,7 +194,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - *2018* **Erasmus+ Gradana Machine Learning and Data Mining Winter School Participant**, University of Bonn, Germany.
 
 
-# 📜 service
+# 📜 Service
 
 ## Leadership
 - 2024 - 2025,  Leadership Team Member, Graduate Student Association of Data and Computation (ADC), University of Kentucky

@@ -21,6 +21,9 @@ main:
   - title: "Awards"
     url: "/#-awards-and-fellowships"
 
+  - title: "Service"
+    url: "/#-service"
+
   - title: "CV"
     url: "files/cv.pdf"
     target: "_blank"
