@@ -35,7 +35,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - *09/18/25:* Presenting poster at 2025 NSF CSR Principal Investigator Meeting!
 - *07/31/25:* Our work "Semi-Supervised Federated Multi-Label Feature Selection with Fuzzy Information Measures" has been accept in the IEEE Globecom 2025! 
 - *07/27/25:* Our work "Federated Reprogramming Knowledge Distillation for Medical Image Classification" has been accept in the MICCAI DeCaF 2025!
-- *06/02/25:* Excited to be selected as a Lighthouse Beacon Foundation Scholar from the Pigman College of Engineering at UKY! 
+- *06/02/25:* Excited to be selected as a Lighthouse Beacon Foundation Scholar from the Pigman College of Engineering at UKY! 😊
 - *03/31/25:* Our work "Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs" has been accept in the IJCNN 2025!  
 - *03/05/25:* Glad for the [CPS Rising Star Recognization 2025](https://engr.uky.edu/news/phd-student-named-2025-cps-rising-star) ⭐ 
 - *01/15/25:* Excited to be selected to attend the [NeTS Early Career Workshop 2025](https://sites.google.com/view/nets-early-career-2025/home?authuser=0) at the NSF Headquarters! 
@@ -125,7 +125,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - **[Oral]** DCOSS-IoT 2024, Abu Dhabi, UAE - *Enhancing IoT Security: A Novel Feature Engineering Approach for ML-Based Intrusion Detection Systems*
 - **[Oral]** GLOBECOM 2023, Kuala Lumpur, Malaysia - *Multimodal multiple federated feature construction method for iot environments*
 - **[Poster]** Annual Commonwealth Computational Summit 2023, Lexington, KY - *Multimodal multiple federated feature construction method for iot environments* [[PDF](files/posters/CCS_Poster_2023.pdf)]
-- **[Oral]** ICNC 2023, Honolulu, Hawaii - *Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias*
+- **[Oral]** ICNC 2023, Honolulu, Hawaii - *Wrapper-based federated feature selection for iot environments*
 - **[Oral]** SEC 2022, Seattle, WA - *Machine Learning-based Solutions for Resource Provisioning of Microservice based Applications in Hybrid Clouds*
 - **[Poster]** Annual Commonwealth Computational Summit 2022, Lexington, KY - *Wrapper-based federated feature selection for iot environments* [[PDF](files/posters/CCS_Poster_2022.pdf)]
 
