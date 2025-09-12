@@ -119,7 +119,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - **[Oral & Poster]** MICCAI DeCaF 2025, Daejeon, South Korea - *Federated Reprogramming Knowledge Distillation for Medical Image Classification*
 - **[Poster]** NSF CSR PI Meeting 2025, Boca Raton, FL - *Semi-Supervised Federated Multi-Label Feature Selection with Fuzzy Information Measures*
 - **[Poster]** NSF CPS PI Meeting 2025, Nashville, TN - *Optimizing Cyber-Physical Systems with a Novel Automated Data Processing Pipeline* [[PDF](files/posters/CPS_Poster.pdf)]
-- **[Guest Lecture]**  Data Mining class at University of Kentucky - Spring 2025, Lexington, KY - *Data Processing and Feature Engineering* 
+- **[Guest Lecture]**  Data Mining class at University of Kentucky - Spring 2025, Lexington, KY - *Data Engineering in Centralized and Distributed Environments* 
 - **[Oral]** BigData 2024, Washington, DC, USA - *Fuzzy Federated Multi-Label Feature Selection: Reinforcement Learning and Ant Colony Optimization*
 - **[Oral]** KCS Seminar - Fall 2024, Lexington, KY - *Federated Data processing frameworks in distributed environment* [[Video](https://www.youtube.com/watch?v=18-zB2IsD74)]
 - **[Oral]** DCOSS-IoT 2024, Abu Dhabi, UAE - *Enhancing IoT Security: A Novel Feature Engineering Approach for ML-Based Intrusion Detection Systems*
