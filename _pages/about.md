@@ -39,6 +39,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - *03/31/25:* Our work "Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs" has been accept in the IJCNN 2025!  
 - *03/05/25:* Glad for the [CPS Rising Star Recognization 2025](https://engr.uky.edu/news/phd-student-named-2025-cps-rising-star) ⭐ 
 - *01/15/25:* Excited to be selected to attend the [NeTS Early Career Workshop 2025](https://sites.google.com/view/nets-early-career-2025/home?authuser=0) at the NSF Headquarters! 
+- *12/19/24:* Honored to be awarded a Graduate Student Congress Travel Grant!
 
 
 # 📝 Publications 
@@ -186,6 +187,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - *2025:* **Lighthouse Beacon Foundation Scholar**
 - *2025:* **Cyber-Physical Systems (CPS) Rising Star** (Selected as 1 of 30 from 200 nominees)
 - *2025:* **NeTS Early Career Workshop Participant**, NSF Headquarters
+- *2024:* **Graduate Student Congress (GSC) Travel Grant Award**, University of Kentucky
 - *2024-2025* **Best Leadership Team Award, Association of Data and Computation (ADC)**, University of Kentucky
 - *2023-2024* **Outstanding Teaching Assistant Award, Department of Computer Science**, University of Kentucky
 - *2024* **Volunteer**-IEEE International Conference on Communications (ICC)
