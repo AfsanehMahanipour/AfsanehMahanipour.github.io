@@ -32,7 +32,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - Interdependent Networks (Cyber-Physical Systems)
 
 # 🔥 News
-- *09/27/25:* Presenting paper at MICCAI DeCaF 2025 in Daejeon, South Korea!
+- *09/27/25:* Presenting paper at MICCAI DeCaF 2025, Daejeon, South Korea!
 - *09/18/25:* Presenting poster at 2025 NSF CSR Principal Investigator Meeting!
 - *07/31/25:* Our work "Semi-Supervised Federated Multi-Label Feature Selection with Fuzzy Information Measures" has been accept in the IEEE Globecom 2025! 
 - *07/27/25:* Our work "Federated Reprogramming Knowledge Distillation for Medical Image Classification" has been accept in the MICCAI DeCaF 2025!
