@@ -32,9 +32,9 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - Interdependent Networks (Cyber-Physical Systems)
 
 # 🔥 News
-- *09/27/25:* Our work "Towards Memory-Efficient Foundation Models in Medical Imaging: A Federated Learning and Knowledge Distillation Approach" has been accepted at [GenAI4Health @NeurIPS](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/) 2025!
+- *09/27/25:* Our work "Towards Memory-Efficient Foundation Models in Medical Imaging: A Federated Learning and Knowledge Distillation Approach" has been accepted at [GenAI4Health @NeurIPS 2025](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/)!
 - *09/27/25:* Presenting paper at MICCAI DeCaF 2025, Daejeon, South Korea!
-- *09/18/25:* Presenting poster at 2025 NSF CSR Principal Investigator Meeting!
+- *09/18/25:* Presenting poster at 2025 NSF CSR Principal Investigator Meeting in Florida Atlantic University, Boca Raton, FL!
 - *07/31/25:* Our work "Semi-Supervised Federated Multi-Label Feature Selection with Fuzzy Information Measures" has been accepted at IEEE Globecom 2025! 
 - *07/27/25:* Our work "Federated Reprogramming Knowledge Distillation for Medical Image Classification" has been accepted at [MICCAI 2025 DeCaF Workshop](https://decaf-workshop.github.io/decaf-2025/)!
 - *06/02/25:* Excited to be selected as a Lighthouse Beacon Foundation Scholar from the Pigman College of Engineering at UKY (Total award: $8,500)! 😊
