@@ -45,6 +45,10 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 
 
 # 📝 Publications 
+- **Towards Memory-Efficient Foundation Models in Medical Imaging: A Federated Learning and Knowledge Distillation Approach** <br>
+  ***Afsaneh Mahanipour***,  Abdullah-Al-Zubaer Imran,  Hana Khamfroush <br>
+  39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: The Second Workshop on GenAI for Health: Potential, Trust, and Policy Compliance. <br>
+
 - **Semi-Supervised Federated Multi-Label Feature Selection with Fuzzy Information Measures** <br>
   ***Afsaneh Mahanipour***,  Hana Khamfroush <br>
   IEEE Global Communications Conference (GLOBECOM) 2025. <br>
@@ -189,8 +193,8 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - *2025:* **Lighthouse Beacon Foundation Scholar**
 - *2025:* **Cyber-Physical Systems (CPS) Rising Star** (Selected as 1 of 30 from 200 nominees)
 - *2025:* **NeTS Early Career Workshop Participant**, NSF Headquarters
-- *2024:* **Graduate Student Congress (GSC) Travel Grant Award**, University of Kentucky
 - *2024-2025* **Best Leadership Team Award, Association of Data and Computation (ADC)**, University of Kentucky
+- *2024:* **Graduate Student Congress (GSC) Travel Grant Award**, University of Kentucky
 - *2023-2024* **Outstanding Teaching Assistant Award, Department of Computer Science**, University of Kentucky
 - *2024* **Volunteer**-IEEE International Conference on Communications (ICC)
 - *2023* **NSF Student Travel Grant Award**, IEEE Percom Conference
