@@ -37,7 +37,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - *09/18/25:* Presenting poster at 2025 NSF CSR Principal Investigator Meeting in Florida Atlantic University, Boca Raton, FL!
 - *07/31/25:* Our work "Semi-Supervised Federated Multi-Label Feature Selection with Fuzzy Information Measures" has been accepted at IEEE Globecom 2025! 
 - *07/27/25:* Our work "Federated Reprogramming Knowledge Distillation for Medical Image Classification" has been accepted at [MICCAI 2025 DeCaF Workshop](https://decaf-workshop.github.io/decaf-2025/)!
-- *06/02/25:* Excited to be selected as a Lighthouse Beacon Foundation Scholar from the Pigman College of Engineering at UKY (Total award: $8,500)! 😊
+- *06/02/25:* Excited to be selected as a Lighthouse Beacon Foundation Scholar from the Pigman College of Engineering at UKY! 😊
 - *03/31/25:* Our work "Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs" has been accepted at IJCNN 2025!  
 - *03/05/25:* Glad for the [CPS Rising Star Recognization 2025](https://engr.uky.edu/news/phd-student-named-2025-cps-rising-star) ⭐ 
 - *01/15/25:* Excited to be selected to attend the [NeTS Early Career Workshop 2025](https://sites.google.com/view/nets-early-career-2025/home?authuser=0) at the NSF Headquarters! 
