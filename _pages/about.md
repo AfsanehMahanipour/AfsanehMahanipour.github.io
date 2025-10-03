@@ -190,7 +190,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 
 </div>
 # 🏆 Awards and Fellowships
-- *2025:* **Lighthouse Beacon Foundation Scholar**
+- *2025:* **Lighthouse Beacon Foundation Scholar** (Total award: $8,500)
 - *2025:* **Cyber-Physical Systems (CPS) Rising Star** (Selected as 1 of 30 from 200 nominees)
 - *2025:* **NeTS Early Career Workshop Participant**, NSF Headquarters
 - *2024-2025* **Best Leadership Team Award, Association of Data and Computation (ADC)**, University of Kentucky
