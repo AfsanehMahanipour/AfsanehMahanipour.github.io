@@ -32,12 +32,13 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - Interdependent Networks (Cyber-Physical Systems)
 
 # 🔥 News
+- *11/03/25:* Honored to be selected as a [2026 Lighthouse Beacon Foundation Graduate Fellow](https://engr.uky.edu/news/2026-lighthouse-beacon-foundation-scholars-announced) 😊
 - *09/27/25:* Our work "Towards Memory-Efficient Foundation Models in Medical Imaging: A Federated Learning and Knowledge Distillation Approach" has been accepted at [GenAI4Health @NeurIPS 2025](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/)!
 - *09/27/25:* Presenting paper at MICCAI DeCaF 2025, Daejeon, South Korea!
 - *09/18/25:* Presenting poster at 2025 NSF CSR Principal Investigator Meeting in Florida Atlantic University, Boca Raton, FL!
 - *07/31/25:* Our work "Semi-Supervised Federated Multi-Label Feature Selection with Fuzzy Information Measures" has been accepted at IEEE Globecom 2025! 
 - *07/27/25:* Our work "Federated Reprogramming Knowledge Distillation for Medical Image Classification" has been accepted at [MICCAI 2025 DeCaF Workshop](https://decaf-workshop.github.io/decaf-2025/)!
-- *06/02/25:* Excited to be selected as a Lighthouse Beacon Foundation Scholar from the Pigman College of Engineering at UKY! 😊
+- *06/02/25:* Honored to receive a [Lighthouse Beacon Foundation Scholar Award](https://engr.uky.edu/news/2026-lighthouse-beacon-foundation-scholars-announced)! 
 - *03/31/25:* Our work "Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs" has been accepted at IJCNN 2025!  
 - *03/05/25:* Glad for the [CPS Rising Star Recognization 2025](https://engr.uky.edu/news/phd-student-named-2025-cps-rising-star) ⭐ 
 - *01/15/25:* Excited to be selected to attend the [NeTS Early Career Workshop 2025](https://sites.google.com/view/nets-early-career-2025/home?authuser=0) at the NSF Headquarters! 
