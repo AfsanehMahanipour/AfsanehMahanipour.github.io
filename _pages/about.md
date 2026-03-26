@@ -32,6 +32,8 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - Interdependent Networks (Cyber-Physical Systems)
 
 # 🔥 News
+- *02/03/26:* Glad to receive the Outstanding Graduate Student Award from CS Department at UKY!
+- *12/06/25:* Presenting paper at GenAI4Health @NeurIPS 2025, San Diego, CA!
 - *11/03/25:* Honored to be selected as a [2026 Lighthouse Beacon Foundation Graduate Fellow](https://engr.uky.edu/news/2026-lighthouse-beacon-foundation-scholars-announced) 😊
 - *09/27/25:* Our work "Towards Memory-Efficient Foundation Models in Medical Imaging: A Federated Learning and Knowledge Distillation Approach" has been accepted at [GenAI4Health @NeurIPS 2025](https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/)!
 - *09/27/25:* Presenting paper at MICCAI DeCaF 2025, Daejeon, South Korea!
