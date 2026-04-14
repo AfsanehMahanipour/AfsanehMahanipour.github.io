@@ -33,7 +33,7 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 
 # 🔥 News
 - *04/07/26:* Honored to receive the 2026 College of Engineering Award for Outstanding Doctoral Student!
-- *04/03/26:* Our work "One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification" has been accepted at [DPDAHS@ IEEE ICHI 2026] (https://dpdahs.github.io/)!
+- *04/03/26:* Our work "One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification" has been accepted at [DPDAHS@ IEEE ICHI 2026](https://dpdahs.github.io/)!
 - *03/31/26:* Presenting at 2026 CCTS Spring Conference, University of Kentucky!
 - *03/02/26:* Glad to receive the Outstanding Graduate Student Award from CS Department at UKY!
 - *12/06/25:* Presenting paper at GenAI4Health @NeurIPS 2025, San Diego, CA!
