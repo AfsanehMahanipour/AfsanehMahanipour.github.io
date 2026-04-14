@@ -32,6 +32,8 @@ I am a Ph.D. candidate in [Computer Science](https://engr.uky.edu/academics/depa
 - Interdependent Networks (Cyber-Physical Systems)
 
 # 🔥 News
+- *07/04/26:* Honored to receive the 2026 College of Engineering Award for Outstanding Doctoral Student!
+- *31/03/26:* Presenting at 2026 CCTS Spring Conference, University of Kentucky
 - *02/03/26:* Glad to receive the Outstanding Graduate Student Award from CS Department at UKY!
 - *12/06/25:* Presenting paper at GenAI4Health @NeurIPS 2025, San Diego, CA!
 - *11/03/25:* Honored to be selected as a [2026 Lighthouse Beacon Foundation Graduate Fellow](https://engr.uky.edu/news/2026-lighthouse-beacon-foundation-scholars-announced) 😊
